@@ -76,4 +76,5 @@ Cross-entropy loss, or log loss, measures the performance of a classification mo
 ![Any Missing Data](https://github.com/Mkaif-Agb/PulsarStars/blob/master/Images/nullvalues.png?raw=true)
 ![Pairplot](https://github.com/Mkaif-Agb/PulsarStars/blob/master/Images/pairplot.png?raw=true)
 ![Loss](https://github.com/Mkaif-Agb/PulsarStars/blob/master/Images/Loss.png?raw=true)
-
+![Classification Report](https://github.com/Mkaif-Agb/PulsarStars/blob/master/Images/Classification_Report.png?raw=true)
+![Confusion Matrix](https://github.com/Mkaif-Agb/PulsarStars/blob/master/Images/ConfusionMatrix.png?raw=true)
